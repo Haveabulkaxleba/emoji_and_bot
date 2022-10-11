@@ -1,7 +1,7 @@
 import telebot
 from email import message
 
-TOKEN = '5606419462:AAGWYVBWhxvMsSzpQqHs1X58H2nejdV7L2A'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
