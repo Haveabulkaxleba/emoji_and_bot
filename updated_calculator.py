@@ -4,7 +4,7 @@ from email import message
 import emoji
 
 
-TOKEN = '5791077667:AAE-CaPe5Lqgv69etCPP7SgCaKcuXJOAuMM'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
